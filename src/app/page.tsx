@@ -3,7 +3,7 @@ import { ChevronUpIcon } from "@/components/Icons";
 import { HeroContent } from "@/interfaces/hero";
 
 const HERO_CONTENT: HeroContent = {
-  bgImg: "/images/hero/background.jpeg",
+  bgImg: "/images/hero/background-hero.webp",
   img: "/images/hero/fox.jpeg",
   title:
     "Save the <span className='font-medium bg-gradient-to-r from-[#61d803] to-[#1A6A2B] text-transparent bg-clip-text'>planet</span> <br/><span className='font-bold text-[34px] lg:text-[44px]'>just in 10 minutes</span>",

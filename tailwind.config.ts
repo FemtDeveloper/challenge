@@ -14,7 +14,7 @@ const config: Config = {
         'lg-wrapper': '1360px'
       },
       dropShadow: {
-        dark: '0 4px 20px #000000'
+        dark: '0px 4px 20px  #000000'
       }
     },
   },
